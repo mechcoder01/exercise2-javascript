@@ -1,9 +1,9 @@
- let number1 = 15
- let number2 = 30
+ const number1 = 15
+ const number2 = 30
 
- let number1AsString = String(number1)
- let sum = number1 + number2
- let product = number1 * number2
+ const number1AsString = String(number1)
+ const sum = number1 + number2
+ const product = number1 * number2
 
  console.log("number1:", number1)
  console.log("number2:" , number2)
